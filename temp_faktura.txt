@@ -1,0 +1,37 @@
+--- STRONA 1 ---
+m
+Kawasaki Faktura VAT FA2438/2025-1
+Let the good times roll
+Sprzedawca: Nabywca:
+PROBIKE Sp. z o.o. MOTO RAKOWSKI SP. ZO.O.
+ul. Gronostaja 6 DŁUGA 8A
+02-786 Warszawa 05-510 KONSTANCIN-JEZIORNA
+NIP: 9511986159 NIP: 1231530129
+Regon: 016396126
+GIOŚ: E0022919BW Odbiorca:
+BDO: 000109965 MOTO RAKOWSKI SP. Z O.O.
+ISO 9001:2015 25478 05-510 KONSTANCIN-JEZIORNA DŁUGA 8A
+Numer konta PLN: 69 1050 1012 1000 0090 3238 6774
+Numer konta EUR: PL 47 1050 1012 1000 0090 3238 6782
+SWIFT: INGBPLPW
+Forma płatności: PRZELEW 14 dni Data wystawienia dokumentu: 30-05-2025
+Termin płatności: 13-06-2025
+Lp. Nazwa KodTowaru / VIN Rabat% Jm llość CenaNetto Wartość netto VAT
+Z900 SE
+model: ZR900TSFNN_GY1
+kolor: GY1
+1 nr silnika: ZR900SE016871 ML5ZR900STDA05891 10 szt. 1 39 878,05 39 878,05 23%
+rok modelowy: 2025
+rok produkcji: 2025
+Razem do zapłaty: 49 050,00
+Uwagi: Stawka Netto VAT Brutto
+Odprawa celna: 2024-05-30 Tilburg - NL AEOF 0002085
+23% 39 878,05 9 171,95 49 050,00
+Razem: 39 878,05 9171,95 49 050,00
+Wystawił(a): Data i podpis osoby uprawnionej:
+Łukasz Słowak Juliusz Rakowski
+Faktura VAT: FA2438/2025-1
+W przypadku gdy faktura zawiera części i/lub akcesoria oraz jej wartość brutto przekracza 15 000 zł należy zastosować Strona 1 z 1
+metodę podzielonej płatności.
+
+

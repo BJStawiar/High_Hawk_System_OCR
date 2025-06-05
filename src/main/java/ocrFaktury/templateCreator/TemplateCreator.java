@@ -1,0 +1,1 @@
+package ocrFaktury.templateCreator;import javafx.scene.Scene;import javafx.scene.control.Button;import javafx.scene.control.Label;import javafx.scene.layout.VBox;import javafx.stage.Stage;public class TemplateCreator {    public void show() {        Stage stage = new Stage();        stage.setTitle("Kreator Szablonów FV");    }}
