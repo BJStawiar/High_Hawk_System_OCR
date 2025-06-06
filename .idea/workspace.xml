@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="323ec539-4320-4ef4-a0d9-cca52063e1e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/BazaDanychView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/FakturaDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/FakturaRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/selectDataFolderManager/SelectDataFolder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ocrFaktury/OCRFakturyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/OCRFakturyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_faktura.txt" beforeDir="false" afterPath="$PROJECT_DIR$/temp_faktura.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/BazaDanychView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/BazaDanychView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/FakturaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/dataBase/FakturaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ocrFaktury/login/LoginView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ocrFaktury/login/LoginView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +28,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -42,8 +39,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven.OCRFakturyApp [clean,install].executor": "Run",
+    "Maven.OCRFakturyApp [clean,javafx:run\\].executor": "Run",
     "Maven.OCRFakturyApp [clean,javafx:run].executor": "Run",
     "Maven.OCRFakturyApp [javafx:run].executor": "Run",
+    "Maven.OCRFakturyApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -70,6 +69,8 @@
     <option name="myCommands">
       <command value="mvn javafx:run" />
       <command value="mvn clean install" />
+      <command value="mvn clean javafx:run\" />
+      <command value="mvn " />
       <command value="mvn clean javafx:run" />
     </option>
   </component>
